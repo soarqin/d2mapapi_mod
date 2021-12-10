@@ -9,7 +9,7 @@
 #include "d2map.h"
 #include "session.h"
 
-#include <json/json.hpp>
+#include <json.hpp>
 
 #include <windows.h>
 #include <unordered_map>
